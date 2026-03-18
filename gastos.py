@@ -6,5 +6,6 @@ transporte = float(input("Ingrese transporte: "))
 gastos = renta + comida + transporte
 restante = ingreso - gastos
 
-print("Gastos totales:", gastos)
-print("Dinero restante:", restante)
+print("\n--- RESULTADOS ---")
+print(f"Gastos totales: ${gastos}")
+print(f"Dinero restante: ${restante}")
