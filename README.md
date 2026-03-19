@@ -1,21 +1,21 @@
-# Control de Gastos en Python
+# Expense Tracker in Python with Data Validation
 
-Aplicación de consola para calcular gastos mensuales y analizar el dinero restante.
+A console-based application that calculates monthly expenses and remaining balance.
 
-## Características
-- Validación de entrada de datos
-- Cálculo automático de gastos
-- Análisis básico financiero
-- Mensajes según nivel de ahorro
+## Features
+- User input for income and expenses
+- Input validation with error handling
+- Automatic calculation of total expenses
+- Remaining balance analysis
 
-## Tecnologías
+## Technologies
 - Python
 
-## Cómo ejecutar
-1. Tener Python instalado
-2. Ejecutar en terminal:
+## How to Run
+1. Make sure Python is installed
+2. Run the following command:
 
-python gastos.py
+python expense_tracker.py
 
-## Autor
+## Author
 Erick Montes
